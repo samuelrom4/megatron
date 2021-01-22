@@ -1,4 +1,4 @@
-Funnel:
+Pipeline:
 Pick Stocks: Figure this system out. Idea: Only trade stocks that we would take a long term position is as well.
 Backtest: Figure this system out. Idea: blueshift integration for alpaca.
 Paper trade: Use alpaca API for paper trading.
